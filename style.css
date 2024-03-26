@@ -2,9 +2,9 @@
     --cor-de-fundo: #FFB5E5;
     --branco: #FFFFFF;
     --branco: #FFFFFF;
-    --botao-ativo: #8d4563;
-    --botao-inativo: rgba(145, 48, 120, 0.5);
-    --texto-fundo: rgba(145, 48, 120, 0.5);
+    --botao-ativo: #63243e;
+    --botao-inativo: rgba(131, 32, 93, 0.5);
+    --texto-fundo: rgba(146, 44, 103, 0.5);
 }
 
 body{
@@ -57,7 +57,9 @@ body{
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-}
+} 
+
+
 
 
 
